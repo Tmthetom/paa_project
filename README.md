@@ -1,1 +1,2 @@
-# paa_project
+# Programování mobilních aplikací [PAA]
+## Semestrální projekt - Nákupní seznam
